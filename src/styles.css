@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Kalam", cursive;
+}
+
+h1 {
+  color: green;
+}
+
+.search input {
+  padding: 8px 20px;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-bottom: 10px;
+  border-color: rgb(48, 184, 66);
+  color: rgb(76, 0, 255);
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.display {
+  color: blueviolet;
+  font-size: 25px;
+}
