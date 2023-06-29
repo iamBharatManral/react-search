@@ -1,2 +1,2 @@
 # react-search
-Created with CodeSandbox
+A simple search box in React.
